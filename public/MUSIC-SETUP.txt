@@ -1,0 +1,24 @@
+# Wedding Music Setup
+
+To enable background music on the wedding website:
+
+1. Add your wedding music file to this folder named: `wedding-music.mp3`
+   Example: `public/wedding-music.mp3`
+
+2. The audio player is already configured to:
+   - Auto-play at 40% volume when the user taps the splash screen
+   - Loop the music throughout the session
+   - Allow pause/resume via the floating music button (top-right)
+
+3. Recommended free royalty-free Indian wedding music sources:
+   - Pixabay (https://pixabay.com/music/search/indian%20wedding/)
+   - Free Music Archive
+   - Bensound
+
+4. To add family/couple photos, place images in the /public folder and
+   update the PersonPhoto components in src/routes/index.tsx
+   (replace the initial-letter placeholders with <img> tags)
+
+5. Family photo: place your photo at /public/family-photo.jpg
+   Then update the family photo section in src/routes/index.tsx to use:
+   <img src="/family-photo.jpg" alt="Family" />
