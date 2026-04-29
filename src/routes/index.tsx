@@ -1067,9 +1067,9 @@ function WeddingInvitation() {
                   <h3 className="font-script" style={{ fontSize: 26, color: 'var(--gold-dark)', margin: 0 }}>Rajan Kumar</h3>
                 </div>
                 <div style={{ fontSize: 12, color: 'var(--text-secondary)', lineHeight: 1.8, paddingLeft: 11 }}>
-                  <div><span style={{ color: 'var(--gold)', fontWeight: 600 }}>Son of:</span> Mrs. Sita Devi &amp; Mr. Ramkripal Shah (Sheth Ji)</div>
+                  <div><span style={{ color: 'var(--gold)', fontWeight: 600 }}>Son of:</span> Mrs. Geeta Devi &amp; Mr. Ramkripal Sah (Seth Ji)</div>
                   <div><span style={{ color: 'var(--gold)', fontWeight: 600 }}>Grandson of:</span> Mrs. Suryavati Devi &amp; Late Ganesh Shah</div>
-                  <div style={{ marginTop: 4 }}><span style={{ color: 'var(--gold)', fontWeight: 600 }}>Address:</span> Village &amp; Post – Karkatta, East Champaran (Bihar)</div>
+                  <div style={{ marginTop: 4 }}><span style={{ color: 'var(--gold)', fontWeight: 600 }}>Address:</span> Village &amp; Post – Nakardei, Raxaul East Champaran (Bihar)</div>
                 </div>
               </div>
             </div>
